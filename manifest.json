@@ -1,7 +1,7 @@
 {
   "name": "单词星球 · 学生背单词",
   "short_name": "单词星球",
-  "description": "拍照提取单词、游戏化记单词、遗忘曲线复习与成长记录。",
+  "description": "相册识词、中英互译、游戏化记单词、遗忘曲线复习与成长记录。",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
