@@ -1,0 +1,19 @@
+{
+  "name": "单词星球 · 学生背单词",
+  "short_name": "单词星球",
+  "description": "拍照提取单词、游戏化记单词、遗忘曲线复习与成长记录。",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f0ff",
+  "theme_color": "#6c5ce7",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
